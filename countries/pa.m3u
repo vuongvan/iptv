@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="NORAM" tvg-language="English" tvg-logo="https://i.imgur.com/W87cTZc.png" tvg-url="" group-title="Documentary",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Auto",Garage TV (242p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1495522364_b446000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" tvg-url="" group-title="Auto",Garage TV (480p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tUHkolc.png" tvg-url="" group-title="Religious",Hosanna Vision
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PA" tvg-language="" tvg-logo="https://i.imgur.com/IqLT2CC.png" tvg-url="" group-title="",OYE CANAL 7 (480p)
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
